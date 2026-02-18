@@ -23,7 +23,6 @@ class CalculatorTest {
 			49,  51, 100
 			1,  100, 101
 			""")
-
     void add(int first, int second, int expectedResult) {
         Calculator calculator = new Calculator();
         assertEquals(expectedResult, calculator.add(first, second),

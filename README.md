@@ -4,3 +4,7 @@
 
 # java-junit6
 JUnit 6 examples
+
+* @Test
+* @ParameterizedTest
+* @RepeatedTest
