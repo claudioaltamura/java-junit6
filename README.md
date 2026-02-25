@@ -8,3 +8,4 @@ JUnit 6 examples
 * @Test
 * @ParameterizedTest
 * @RepeatedTest
+* @TestFactory
