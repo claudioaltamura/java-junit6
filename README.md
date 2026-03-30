@@ -9,3 +9,4 @@ JUnit 6 examples
 * @ParameterizedTest
 * @RepeatedTest
 * @TestFactory
+* @DisplayNameGeneration
